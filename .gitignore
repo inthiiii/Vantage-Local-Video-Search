@@ -1,0 +1,17 @@
+# Mac system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Project Data (IMPORTANT: Keep these local!)
+assets/
+data/
+*.mp4
+*.jpg
+*.png
+*.bin
+*.pkl
