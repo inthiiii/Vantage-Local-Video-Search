@@ -23,3 +23,8 @@ Built to run entirely on the **Apple M3 Neural Engine** with zero cloud dependen
    ```bash
    git clone [https://github.com/yourusername/Vantage-Local-Video-Search.git](https://github.com/yourusername/Vantage-Local-Video-Search.git)
    cd Vantage
+
+### 📸 Screenshots
+
+|:---:|:---:|
+| ![FeatureCard](assets/FeaturePoster.jpg) | ![Homepage](assets/Homepage.JPEG) | ![Visual Analysis](assets/VisualAnalysis.JPEG) |
