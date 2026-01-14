@@ -26,5 +26,6 @@ Built to run entirely on the **Apple M3 Neural Engine** with zero cloud dependen
 
 ### 📸 Screenshots
 
-|:---:|:---:|
+| Feature Poster | Home Page | Visual Analysis |
+|:---:|:---:|:---:|
 | ![FeatureCard](assets/FeaturePoster.jpg) | ![Homepage](assets/Homepage.JPEG) | ![Visual Analysis](assets/VisualAnalysis.JPEG) |
